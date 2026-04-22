@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
+Flask
+Werkzeug
+joblib
+waitress
+
+gunicorn
